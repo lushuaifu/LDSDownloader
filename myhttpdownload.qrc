@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/cxk.png</file>
+        <file>Resources/progressbar.png</file>
+        <file>Resources/progressbar_back.png</file>
+    </qresource>
+</RCC>
